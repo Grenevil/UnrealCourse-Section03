@@ -1,0 +1,14 @@
+########################
+#Unreal Generated Files#
+########################
+Projects/*/Binaries/
+Projects/*/Build/
+Projects/*/DerivedDataCache/
+Projects/*/Intermediate/
+Projects/*/Saved/
+Projects/BuildingEscape/Content/StarterContent/
+
+####################
+#VS Generated Files#
+####################
+*VC.db
